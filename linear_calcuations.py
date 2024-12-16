@@ -1,7 +1,7 @@
 """
-Name:
-Date:
-Description:
+Name: Zachary Briggs
+Date: 12/16/24
+Description: Linear Calculations
 """
 
 def slope(point1:tuple,point2:tuple)->float:
