@@ -36,7 +36,11 @@ print(integer_tuple)
 character_info = (("Rosalie", 100)),("Cedric", 75), ("Shana", 94)
 print(character_info[1],[0])
 ########## Exercise ##########
-
+author_name = "Tom" "Hank" "Prep"
+def citation(author_name):
+    citation = author_name[2] +author_name[0:2]
+    return citation
+print(citation(author_name))
 """
 In the file linear_calculations.py, complete the slope and distance
 function. Each function takes in two tuples, representing two (x,y) points,
